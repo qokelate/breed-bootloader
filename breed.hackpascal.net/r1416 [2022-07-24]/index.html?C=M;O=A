@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /r1416 [2022-07-24]</title>
+ </head>
+ <body>
+<strong>Boot and Recovery Environment for Embedded Devices (BREED)<br />
+A multi-task bootloader with real-time firmware upgrading progress. <br />
+NOT A U-BOOT MODIFICATION! <br />
+Copyright (C) 2022 Weijie Gao <hackpascal@gmail.com> <br/>
+Revision: r1416 [2022-07-24] <br />
+当前版本：r1416 [2022-07-24] <br />
+</strong>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=D">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9558-dw33d.bin">breed-qca9558-dw33d.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">127K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca953x.bin">breed-qca953x.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">108K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-ar9344-wndr4300-nand.bin">breed-ar9344-wndr4300-nand.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">132K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-ar9344-wndr4300-spi-recovery.bin">breed-ar9344-wndr4300-spi-recovery.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">126K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-ar9344-wndr4300-spi.bin">breed-ar9344-wndr4300-spi.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">130K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-creativebox-v1.bin">breed-mt7621-creativebox-v1.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">119K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-hiwifi-hc5961.bin">breed-mt7621-hiwifi-hc5961.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">133K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-hiwifi-hc5962.bin">breed-mt7621-hiwifi-hc5962.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">133K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-r6220.bin">breed-mt7621-r6220.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">139K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-xiaomi-r3g.bin">breed-mt7621-xiaomi-r3g.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">134K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-zte-e8820s.bin">breed-mt7621-zte-e8820s.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">135K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9563-dir-859-a.bin">breed-qca9563-dir-859-a.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">113K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9563-wndr4500v3.bin">breed-qca9563-wndr4500v3.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">126K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-rt3052-hg255d.bin">breed-rt3052-hg255d.bin</a></td><td align="right">2022-07-24 00:12  </td><td align="right">100K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="md5sum.txt">md5sum.txt</a></td><td align="right">2022-07-24 09:42  </td><td align="right">872 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.41 (Ubuntu) Server at breed.hackpascal.net Port 443</address>
+</body></html>

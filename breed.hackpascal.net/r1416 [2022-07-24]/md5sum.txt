@@ -1,0 +1,14 @@
+231dabbb5d05e9098e8c32172cbb2e87  breed-ar9344-wndr4300-nand.bin
+31ffd9df0210fb1ef6c0bb280dc6dc17  breed-ar9344-wndr4300-spi-recovery.bin
+7f0fe952775e066f4c6308f432b280e8  breed-ar9344-wndr4300-spi.bin
+a58a2226c66c0604cc05d51640352040  breed-mt7621-creativebox-v1.bin
+325726a7bf1ffd1833eedae4af67b129  breed-mt7621-hiwifi-hc5961.bin
+5766155a3ee8b14ce68e423c1d3b01c5  breed-mt7621-hiwifi-hc5962.bin
+09d68b2a6350c2d7419c7010675c37af  breed-mt7621-r6220.bin
+e65d388129a6d1ac39abf99329f1978b  breed-mt7621-xiaomi-r3g.bin
+ff2f2de9986c815c7aa8309d9b1fb981  breed-mt7621-zte-e8820s.bin
+22ba7987cfd13764ed3b8d1cce5f0018  breed-qca953x.bin
+60f753ad4096f390fa99c1d7a5b2f388  breed-qca9558-dw33d.bin
+f333d4639f7b19f3e5771d9edd56b897  breed-qca9563-dir-859-a.bin
+6517f549cd0b05ed4263255cc61c51f3  breed-qca9563-wndr4500v3.bin
+4ca7b797e93330e694b95841f44fc30a  breed-rt3052-hg255d.bin

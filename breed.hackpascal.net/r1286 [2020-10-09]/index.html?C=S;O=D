@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /r1286 [2020-10-09]</title>
+ </head>
+ <body>
+<strong>Boot and Recovery Environment for Embedded Devices (BREED)<br />
+A multi-task bootloader with real-time firmware upgrading progress. <br />
+NOT A U-BOOT MODIFICATION! <br />
+Copyright (C) 2022 Weijie Gao <hackpascal@gmail.com> <br/>
+Revision: r1416 [2022-07-24] <br />
+当前版本：r1416 [2022-07-24] <br />
+</strong>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-r6220.bin">breed-mt7621-r6220.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">108K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-wndr3700v5.bin">breed-mt7621-wndr3700v5.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">108K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-jd-cloud-1.bin">breed-mt7621-jd-cloud-1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">107K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-phicomm-k2p.bin">breed-mt7621-phicomm-k2p.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">104K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-newifi-d2.bin">breed-mt7621-newifi-d2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">104K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-creativebox-v1.bin">breed-mt7621-creativebox-v1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">104K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-pbr-m1.bin">breed-mt7621-pbr-m1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">104K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-youku-l2.bin">breed-mt7621-youku-l2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">104K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-gehua-ghl-r-001.bin">breed-mt7621-gehua-ghl-r-001.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">104K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-totolink-a3004ns.bin">breed-mt7621-totolink-a3004ns.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">104K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-xiaomi-r3g.bin">breed-mt7621-xiaomi-r3g.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">103K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-newifi-d1.bin">breed-mt7621-newifi-d1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">103K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-xunlei-timeplug.bin">breed-mt7621-xunlei-timeplug.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">103K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7621-hiwifi-hc5962.bin">breed-mt7621-hiwifi-hc5962.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right">102K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9558-dw33d.bin">breed-qca9558-dw33d.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 98K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9563-dir-859-a.bin">breed-qca9563-dir-859-a.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 95K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9563-phicomm-k2t.bin">breed-qca9563-phicomm-k2t.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 95K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-ar9344-sgr-w500-n85b-v2.bin">breed-ar9344-sgr-w500-n85b-v2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 94K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9563-wndr4500v3.bin">breed-qca9563-wndr4500v3.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 94K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9563-rosinson-wr818.bin">breed-qca9563-rosinson-wr818.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 94K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9563-jhr-848q.bin">breed-qca9563-jhr-848q.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx19_tx20-reset1.bin">breed-qca956x-uart_rx19_tx20-reset1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9558-ar8327n.bin">breed-qca9558-ar8327n.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx19_tx20-reset2.bin">breed-qca956x-uart_rx19_tx20-reset2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9558-ar8236.bin">breed-qca9558-ar8236.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx19_tx22-reset1.bin">breed-qca956x-uart_rx19_tx22-reset1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9558-wr1043ndv2.bin">breed-qca9558-wr1043ndv2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx18_tx22-reset1.bin">breed-qca956x-uart_rx18_tx22-reset1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx18_tx20-reset1.bin">breed-qca956x-uart_rx18_tx20-reset1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx20_tx22-reset1.bin">breed-qca956x-uart_rx20_tx22-reset1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx19_tx22-reset2.bin">breed-qca956x-uart_rx19_tx22-reset2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9558-wr2041nv2.bin">breed-qca9558-wr2041nv2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx18_tx22-reset2.bin">breed-qca956x-uart_rx18_tx22-reset2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx18_tx20-reset2.bin">breed-qca956x-uart_rx18_tx20-reset2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca9558-wr941nv7.bin">breed-qca9558-wr941nv7.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca956x-uart_rx20_tx22-reset2.bin">breed-qca956x-uart_rx20_tx22-reset2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-tp9343.bin">breed-tp9343.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca953x.bin">breed-qca953x.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-qca953x-letv-lba-047-ch.bin">breed-qca953x-letv-lba-047-ch.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-lenovo-y1s.bin">breed-mt7620-lenovo-y1s.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-lenovo-y1.bin">breed-mt7620-lenovo-y1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-oye-0001.bin">breed-mt7620-oye-0001.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-youku-yk1.bin">breed-mt7620-youku-yk1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-hiwifi-hc5861.bin">breed-mt7620-hiwifi-hc5861.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-hiwifi-hc5761.bin">breed-mt7620-hiwifi-hc5761.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-airmobi-iplay2.bin">breed-mt7620-airmobi-iplay2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-fir302m.bin">breed-mt7620-fir302m.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-zte-q7.bin">breed-mt7620-zte-q7.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 90K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-whr-1166dhp.bin">breed-mt7620-whr-1166dhp.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-phicomm-psg1208.bin">breed-mt7620-phicomm-psg1208.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-rt-n14u.bin">breed-mt7620-rt-n14u.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-xiaomi-mini.bin">breed-mt7620-xiaomi-mini.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-reset13.bin">breed-mt7620-reset13.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-reset12.bin">breed-mt7620-reset12.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-reset11.bin">breed-mt7620-reset11.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-reset30.bin">breed-mt7620-reset30.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-reset1.bin">breed-mt7620-reset1.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-reset26.bin">breed-mt7620-reset26.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-reset2.bin">breed-mt7620-reset2.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7628-oye-0006.bin">breed-mt7628-oye-0006.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7628-hiwifi-hc5661a.bin">breed-mt7628-hiwifi-hc5661a.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7688-wrtnode2r.bin">breed-mt7688-wrtnode2r.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7688-reset38.bin">breed-mt7688-reset38.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt76x8-blank.bin">breed-mt76x8-blank.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/binary.gif" alt="[   ]"></td><td><a href="breed-mt7620-blank.bin">breed-mt7620-blank.bin</a></td><td align="right">2021-12-12 15:16  </td><td align="right"> 89K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="md5sum.txt">md5sum.txt</a></td><td align="right">2021-12-12 15:20  </td><td align="right">4.0K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.41 (Ubuntu) Server at breed.hackpascal.net Port 443</address>
+</body></html>
